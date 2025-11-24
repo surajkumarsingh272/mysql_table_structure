@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **App Development using Flutter & Kotlin**
 - 🌱 Learning **Flutter**, **Firebase**, and **API integrations**
-- 👨‍💻 Experienced in: `HTML`, `CSS`, `PHP`, `Kotlin`, `MySQL`, `Android`
+- 👨‍💻 Experienced in: `HTML`, `CSS`, `PHP`, `Kotlin`, `MySQL`, `Android`,`dart` , `flutter`
 - 📫 Reach me at: **2usurajkumar@gmail.com**
 - 💬 Ask me about: Android dev, Web dev, 
 - ⚡ Fun fact: I believe **simplicity + functionality = **
